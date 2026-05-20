@@ -1,16 +1,16 @@
 # HTML Lesson 2
 
-Мой первый проект по HTML.
+My first HTML project.
 
-## Структура
+## Structure
 
-- `index.html` — главная страница с информацией обо мне
+- `index.html` — main page with information about me
 
-## Что изучил
+## What I learned
 
-- Базовая структура HTML документа
-- Заголовки (h1, h2)
-- Параграфы (p)
-- Списки (ul, ol, li)
-- Ссылки (a)
-- Горизонтальная линия (hr)
+- Basic HTML document structure
+- Headings (h1, h2)
+- Paragraphs (p)
+- Lists (ul, ol, li)
+- Links (a)
+- Horizontal rule (hr)
