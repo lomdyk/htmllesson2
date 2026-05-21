@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #f0f8ff, #d3eaf2);
+  color: #333;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  max-width: 940px;
+  margin: 10px auto;
+  padding: 50px;
+  background: rgba(252, 252, 252, 0.92);
+  border: 1px solid #0088ff;
+  border-radius: 16px;
+}
+
+h1, h2 {
+  color: #1a4a7e;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 18px;
+}
+
+button {
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  background: #4a90e2;
+  color: #fff;
+  cursor: url('./phone-call.png') 16 16, pointer;
+  transition: transform 1s ease, background 2s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  background: #ffaa00;
+}
+
+
+.flex-container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 30px;
+}
